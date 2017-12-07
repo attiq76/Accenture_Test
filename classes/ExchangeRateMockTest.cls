@@ -1,3 +1,7 @@
+/* 
+* This is mock class for exchange rate web service
+* Author: Attiq Ur-Rehman
+*/
 @isTest
 global class ExchangeRateMockTest  implements HttpCalloutMock{
 
